@@ -28,6 +28,7 @@ int main()
         }
 
     }
+    //ffghdfghdfghdfgh
     /////
     /*
     for (int i = 1; i <= so; i++)
